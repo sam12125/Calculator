@@ -78,7 +78,7 @@ return digits;
 </div>
     </div>
     </div>
-  );
-};
+  )
+}
 
 export default App;
